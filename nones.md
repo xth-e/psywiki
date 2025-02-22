@@ -33,3 +33,21 @@
 ### 专有名词
 
 使用最广泛使用的名称。
+
+## 采用的译名
+
+Amplififications 增益
+Suppressions 减益
+distortions 失调
+Depression 抑郁/抑制
+Intensifications 焦虑/强化
+Novel 奇特感觉/文学
+Disconnective 分离
+Detachment 解离
+Dissociatives 分裂剂
+Stimulants 兴奋剂
+Nootropics 促智药
+Multisensory 通感
+Trip 旅行
+Tripsitter 旅行保姆
+Cognitive 认知
