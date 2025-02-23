@@ -51,3 +51,4 @@ Multisensory 通感
 Trip 旅行
 Tripsitter 旅行保姆
 Cognitive 认知
+Memory 记忆

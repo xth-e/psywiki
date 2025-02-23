@@ -2,12 +2,13 @@
 
 | Dextromethorphan（右美沙芬） |
 | --- |
-| ![右美沙芬](https://m.psychonautwiki.org/w/images/0/0c/DXM.svg "右美沙芬") |
+| ![右美沙芬](https://m.psychonautwiki.org/w/images/0/0c/右美沙芬.svg "右美沙芬") |
 
 
-右美沙芬（Dextromethorphan,DM,DXM）是一种吗啡喃类解离物质。它是许多常见 OTC(over-the-counter) 感冒药和咳嗽药的主要活性成分。在已经验证的剂量下，右美沙芬 产生类似于 氯胺酮 和 PCP 的解离效果。它是一种非竞争性的 NMDA 受体拮抗剂。
+右美沙芬（Dextromethorphan,DM,右美沙芬）是一种吗啡喃类解离物质。它是许多常见 OTC(over-the-counter) 感冒药和咳嗽药的主要活性成分。在已经验证的剂量下，右美沙芬 产生类似于 氯胺酮 和 PCP 的解离效果。它是一种非竞争性的 NMDA 受体拮抗剂。
 
-右美沙芬 在 1953 年首次被报道，1958 年被美国批准用作镇咳药。获批后，它以 Romilar 的名称作为非处方药进入了市场。1975年，由于 右美沙芬 被广泛滥用，Romilar 很快便结束了它短暂的一生。几年后，制药厂们又推出了一些不那么容易滥用的 右美沙芬 产品，比方说难吃版本。
+右美沙芬 在 1953 年首次被报道，1958 年被美国批准用作镇咳药。获批后，它以 Romilar 的名称作为非处方药进入了市场。1975年，由于 
+右美沙芬 被广泛滥用，Romilar 很快便结束了它短暂的一生。几年后，制药厂们又推出了一些不那么容易滥用的 右美沙芬 产品，比方说难吃版本。
 
 然而，由于其低廉的价格和容易达到的快感，右美沙芬 的滥用一直存在，特别是在青少年群体中。
 
@@ -53,7 +54,7 @@ NMDA 受体是一种谷氨酸受体;谷氨酸是主要的兴奋性神经递质�
 
 在**高剂量**下，右美沙芬 会导致**高血压**以及**心率增加**。右美沙芬还会增加血浆中促肾上腺皮质激素和皮质酮的水平。
 
-尽管 DXM 是一种吗啡衍生物，但它**不是**强效μ阿片类激动剂，所以它这与该类化合物中的大多数化合物（如海洛因和可待因）不同。
+尽管 右美沙芬 是一种吗啡衍生物，但它**不是**强效μ阿片类激动剂，所以它这与该类化合物中的大多数化合物（如海洛因和可待因）不同。
 
 | 结合位点 | 结合亲和力 Ki (nM) |
 | ------ | :---: |
@@ -74,7 +75,7 @@ NMDA 受体是一种谷氨酸受体;谷氨酸是主要的兴奋性神经递质�
 
 右旋吗啡和 3-甲氧基吗啡聚糖都被代谢成 3-羟基吗啡聚糖。右旋啡被 CYP3A4 的 N 去甲基化，3-甲氧基吗啡多糖被 CYP2D6 的 O 去甲基化。CYP2D6 O-去甲基化比 CYP3A4 N-去甲基化更有效。
 
-个体代谢 DXM 的方式变化可能会显着改变体验的性质。与普通人相比，代谢不良者清除的 DXM 更少，导致血液中 DXM 与 DXO 的比率更高，并且由于大部分无活性代谢物 3MM 和 3HM 的损失较少，因此整体效力和持续时间增加。CYP2D6 和 CYP3A4 抑制剂**具有相似的作用**。
+个体代谢 右美沙芬 的方式变化可能会显着改变体验的性质。与普通人相比，代谢不良者清除的 右美沙芬 更少，导致血液中 右美沙芬 与 DXO 的比率更高，并且由于大部分无活性代谢物 3MM 和 3HM 的损失较少，因此整体效力和持续时间增加。CYP2D6 和 CYP3A4 抑制剂**具有相似的作用**。
 
 ### 右啡烷
 
@@ -163,13 +164,15 @@ NMDA 受体是一种谷氨酸受体;谷氨酸是主要的兴奋性神经递质�
 
 ## 认知影响
 
-* Analysis suppression
+* 分析抑制
 
 * 焦虑抑制或焦虑 - 尽管右美沙芬 通常会抑制焦虑，但它也能够在某些情况下产生焦虑。大剂量时可发生惊恐发作。
 
 * 认知欣快感 - 虽然认知欣快感的状态通常被报道，但这种影响可以无缘无故地不可预测地表现为认知焦虑症，尤其是在较高剂量下。
 
 * [概念思维](../effects/conceptual_thinking.md)
+* 增加
+* 欣快感
 * 困惑
 * 认知疲劳
 * 创造力增强
@@ -180,19 +183,18 @@ NMDA 受体是一种谷氨酸受体;谷氨酸是主要的兴奋性神经递质�
 * 自我膨胀
 * 梦境增强
 * 情绪增强 - 虽然这种效果不太像其他常用的致幻剂，但它比大多数解离剂更突出。
-Empathy, affection, and sociability enhancement - This is commonly reported as being similar to but less prominent than with other commonly used entactogens such as MDMA or MDA.
-Immersion enhancement
-Increased sense of humor - Mostly present below the upper plateaus.
-Increased libido - This effect is exclusively felt in low doses.
-Increased music appreciation - This effect can be very intense with DXM, especially at the lower plateaus. Listening to music greatly intensifies the experience and produces strong euphoria.
-Memory suppression
-Ego death
-Amnesia - This effect is usually only present with higher dosages, past the threshold for ego death (which can vary between people based on their individual metabolism). It can range from partial to complete memory loss of the experience. Generally, more dull parts of the experience tend to not be remembered at all. Frequent use can sometimes contribute to this, even for days after the experience.
-Focus suppression[12]
-Motivation suppression[12]
-Novelty enhancement
-Personal bias suppression - This effect is not usually as pronounced as it is with other more commonly used hallucinogens such as LSD or psilocin.
-Personal meaning enhancement - This effect is typically only present on the lower plateaus and varies in its believability and content.
-Thought deceleration
-Time distortion - Time while on DXM often feels very stretched out. For example, it may feel like hours have passed when in reality only ten minutes have passed. There also seems to be a general difficulty of what time certain events took place.
-Sleepiness
+* 同理心、感情和社交能力增强 - 这通常被报告为与其他常用的内触原（如 MDMA 或 MDA）相似但不那么突出。
+* 沉浸感增强
+* 幽默感增强 - 主要存在于上部平台下方。
+* 音乐欣赏增强 - 这种效果在可能非常强烈，尤其是在较低的高原地区。听音乐极大地增强了体验并产生了强烈的欣快感。
+* 记忆抑制
+* 自我死亡
+* 健忘症 - 这种效果通常只在更高的剂量下出现，超过自我死亡的阈值（根据个人新陈代谢，每个人的死亡率可能会有所不同）。它的范围可以从部分到完全的经历记忆丧失。一般来说，体验中更沉闷的部分往往根本不会被记住。频繁使用有时会导致这种情况，即使在体验后的几天内也是如此。
+* 精力抑制
+* 动机抑制
+* 新颖性增强
+* 个人偏见抑制 - 这种效果通常不像其他更常用的致幻剂（如 LSD 或裸盖菇素）那样明显。
+* 个人意义增强 - 这种效果通常只存在于较低的高原，并且其可信度和内容各不相同。
+* 思维减速
+* 时间失真 - 使用 右美沙芬 时，时间经常感觉非常拉长。例如，可能感觉已经过去了几个小时，而实际上只过去了十分钟。某些事件发生的时间似乎也存在普遍的困难。
+* 嗜睡
