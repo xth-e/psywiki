@@ -111,7 +111,7 @@ NMDA 受体是一种谷氨酸受体;谷氨酸是主要的兴奋性神经递质�
 
 与 MXE 和氯胺酮相比，右美沙芬的主观影响通常被描述为明显的致幻、受损、迷失方向并且通常头脑不太清晰。
 
-免责声明：下面列出的效果引用了主观效应指数 （SEI），这是一篇基于轶事用户报告和 PsychonautWiki 贡献者个人分析的开放研究文献。因此，应该以健康程度的怀疑态度来看待他们。
+免责声明：下面列出的效果引用了主观效应指数 （SEI），这是一篇**基于轶事用户报告和 PsychonautWiki 贡献者个人分析的开放研究文献**。因此，应该以健康程度的怀疑态度来看待他们。
 
 还值得注意的是，这些影响不一定会以可预测或可靠的方式发生，尽管更高的剂量更容易诱发所有影响。同样，不良反应随着剂量的增加而变得越来越大，可能包括成瘾、严重伤害或死亡☠。
 
@@ -163,22 +163,23 @@ NMDA 受体是一种谷氨酸受体;谷氨酸是主要的兴奋性神经递质�
 
 ## 认知影响
 
-Analysis suppression
-Anxiety suppression or Anxiety - Although DXM typically suppresses anxiety, it is also able to produce it in certain conditions. Panic attacks can occur at heavy dosages.
-Conceptual thinking
-Confusion[12]
-Cognitive euphoria - While states of cognitive euphoria are commonly reported, this effect can unpredictably manifest itself as cognitive dysphoria for no apparent reason, particularly at higher doses.
-Cognitive fatigue[12]
-Creativity enhancement
-Decreased libido
-Déjà vu
-Delusion - This effect can occur spontaneously among some users and is more likely to occur at higher doses.
-Depersonalization
-Derealization
-Disinhibition - This effect can be quite significant even at moderate dosages.
-Ego inflation
-Dream potentiation
-Emotion enhancement - Though this effect isn't as consistent as it is with other commonly used hallucinogens it is more prominent than with most dissociatives.
+* Analysis suppression
+
+* 焦虑抑制或焦虑 - 尽管右美沙芬 通常会抑制焦虑，但它也能够在某些情况下产生焦虑。大剂量时可发生惊恐发作。
+
+* 认知欣快感 - 虽然认知欣快感的状态通常被报道，但这种影响可以无缘无故地不可预测地表现为认知焦虑症，尤其是在较高剂量下。
+
+* [概念思维](../effects/conceptual_thinking.md)
+* 困惑
+* 认知疲劳
+* 创造力增强
+* 妄想 - 这种效果可以在一些使用者中自发发生，并且在较高剂量下更有可能发生。
+* 人格解体
+* 现实解体
+* 去抑制 - 即使在中等剂量下，这种效果也可能相当显着。
+* 自我膨胀
+* 梦境增强
+* 情绪增强 - 虽然这种效果不太像其他常用的致幻剂，但它比大多数解离剂更突出。
 Empathy, affection, and sociability enhancement - This is commonly reported as being similar to but less prominent than with other commonly used entactogens such as MDMA or MDA.
 Immersion enhancement
 Increased sense of humor - Mostly present below the upper plateaus.
