@@ -48,7 +48,7 @@
     - MiPT
     - MPT
     - NMT
-    - Tryptamine
+    - Tryptamine = 色胺
 + 色胺取代物
     - 4-AcO-DET
     - 4-AcO-DiPT
@@ -146,17 +146,17 @@
     - BOD (β-MeO-2C-D)
     - Bromo-DragonFLY
     - HOT-7
-    - Jimscaline
+    - Jimscaline = 吉司卡林
     - TCB-2
     - TMA (TMA-1)
     - TMA-2
     - TMA-6
 + 其他
     - 5-MeO-DiBF
-    - Efavirenz
-    - Glaucine
-    - Lorcaserin
-    - Mirtazapine (Remeron)
+    - Efavirenz = 依法韦仑
+    - Glaucine = 东莨菪碱
+    - Lorcaserin = 氯卡色林
+    - Mirtazapine = 米氮平 (Remeron = 瑞美隆)
 
 ## 分裂剂
 + 芳基环己胺
@@ -179,9 +179,9 @@
     - Eticyclidine (PCE)
     - Fluorexetamine (FXE)
     - Hydroxetamine (HXE)
-    - Ketamine
-        * R-Ketamine (Arketamine)
-        * S-Ketamine (Esketamine)
+    - Ketamine = 氯胺酮
+        * R-Ketamine (Arketamine = 左旋氯胺酮)
+        * S-Ketamine (Esketamine = 右旋氯胺酮 =艾司氯胺酮)
     - Methoxetamine (MXE)
     - Methoxisopropamine (MXiPr)
     - Methoxpropamine (MXPr)
@@ -189,24 +189,24 @@
     - Tenocyclidine
     - Tiletamine
 + 二芳基乙胺
-    - Diphenidine
+    - Diphenidine = 地芬尼多
     - Ephenidine
     - Methoxphenidine (MXP)
 + 吗啡喃
-    - [DXM](./drugs/dxm.md)
+    - [DXM](./drugs/dxm.md) = 右美沙芬
         * DXO
 + 金刚烷
-    - Amantadine
-    - Memantine
-    - Rimantadine ("Flumadine")
+    - Amantadine = 金刚烷胺
+    - Memantine = 美金刚
+    - Rimantadine = 金刚乙胺 ("Flumadine" = 氟马定)
 + 其他
-    - Dexoxadrol
-    - Dizoclipine (MK-801)
-    - Etoxadrol
+    - Dexoxadrol = 右奥沙屈
+    - Dizoclipine = 地佐克平 (MK-801)
+    - Etoxadrol = 乙苯噁啶
     - HA-966
-    - Ibogaine
+    - Ibogaine = 伊博格碱
     - Nitrous oxide (N2O)
-    - Xenon
+    - Xenon = 氙
 
 ## 迷幻植物
 + 略
@@ -216,177 +216,177 @@
 
 ## 谵妄剂
 + 莨菪烷
-    - Atropine
-    - Hyoscyamine
-    - Scopolamine (Hyoscine)
+    - Atropine = 阿托品
+    - Hyoscyamine = 莨菪碱
+    - Scopolamine = 东莨菪碱 (Hyoscine)
 + 抗组胺剂
-    - Diphenhydramine (Benadryl, DPH)
-    - Doxylamine
-    - Orphenadrine
-    - Promethazine
+    - Diphenhydramine = 苯海拉明 (Benadryl, DPH)
+    - Doxylamine = 多西拉敏
+    - Orphenadrine = 奥芬那君
+    - Promethazine = 异丙嗪
 + 其他
-    - Amantadine
-    - Benzydamine
-    - Biperiden (Akineton)
-    - Cyproheptadine
-    - Mirtazapine (Remeron)
-    - Myristicin (Nutmeg)
-        * Elemicin
+    - Amantadine = 金刚烷胺
+    - Benzydamine = 苄达明
+    - Biperiden = 比哌立登 (Akineton)
+    - Cyproheptadine = 赛庚啶
+    - Mirtazapine = 米氮平 (Remeron)
+    - Myristicin = 肉豆蔻醚 (Nutmeg)
+        * Elemicin = 榄香素
 
 ## 镇静剂
-+ 乙醇
-    - Alcohol (ethanol)
-    - 2-Methyl-2-butanol (2M2B)
++ 醇类
+    - Alcohol = 乙醇(ethanol)
+    - 2-Methyl-2-butanol = 叔戊醇 (2M2B)
 + 苯二氮卓
-    - 3-Hydroxyphenazepam
-    - Alprazolam (Xanax)
-    - Bromazepam
-    - Bromazolam
-    - Chlordiazepoxide (Librium)
+    - 3-Hydroxyphenazepam = 3-羟基芬纳西泮
+    - Alprazolam = 阿普唑仑 (Xanax)
+    - Bromazepam = 溴西泮
+    - Bromazolam = 溴替唑仑
+    - Chlordiazepoxide = 甲氨二氮卓 (Librium = 利眠宁)
     - Cinazepam
-    - Cinolazepam
-    - Clobazam
-    - Clonazepam (Klonopin)
+    - Cinolazepam = 西诺西泮
+    - Clobazam = 氯巴占
+    - Clonazepam = 氯硝西泮 (Klonopin)
     - Clonazolam
     - Clorazepate
     - Desmethylflunitrazepam
-    - Diazepam (Valium)
+    - Diazepam = 地西泮 (Valium)
     - Diclazepam
-    - Difludiazepam
-    - Estazolam
-    - Flualprazolam
-    - Flubromazepam
-    - Flubromazolam
-    - Flunitrazepam (Rohypnol)
+    - Difludiazepam = 氟地西泮
+    - Estazolam = 艾司唑仑
+    - Flualprazolam = 氟阿普唑仑
+    - Flubromazepam = 氟溴西泮
+    - Flubromazolam = 氟溴唑仑
+    - Flunitrazepam = 氟硝西泮 (Rohypnol)
     - Flunitrazolam
-    - Flurazepam
-    - Gidazepam
-    - Loprazolam
-    - Lorazepam (Ativan)
-    - Lormetazepam
-    - Meclonazepam
-    - Midazolam (Dormicum)
+    - Flurazepam = 氟西泮
+    - Gidazepam = 吉达西泮
+    - Loprazolam = 氯普唑仑
+    - Lorazepam = 劳拉西泮 (Ativan)
+    - Lormetazepam = 氯甲西泮
+    - Meclonazepam = 甲氯西泮
+    - Midazolam = 咪达唑仑 (Dormicum)
     - Nifoxipam
-    - Nitrazolam
-    - Nordazepam
-    - Norflurazepam
-    - Oxazepam
-    - Phenazepam
+    - Nitrazolam = 硝唑仑
+    - Nordazepam = 去甲西泮
+    - Norflurazepam = 去甲氟西泮
+    - Oxazepam = 奥沙西泮
+    - Phenazepam = 芬纳西泮
     - Pyrazolam
-    - Quazepam
+    - Quazepam = 夸西泮
     - Ro5-4864
-    - Temazepam
-    - Tetrazepam
-    - Triazolam (Halcion)
+    - Temazepam = 替马西泮
+    - Tetrazepam = 四氢西泮
+    - Triazolam = 三唑仑 (Halcion)
 + 噻二氮卓
-    - Brotizolam
+    - Brotizolam = 溴替唑仑
     - Deschloroclotizolam
     - Deschloroetizolam
-    - Etizolam
+    - Etizolam = 依替唑仑
     - Flubrotizolam
     - Fluclotizolam
-    - Fluetizolam
+    - Fluetizolam = 氟依替唑仑
     - Metizolam
 + 巴比妥
-    - Amobarbital
-    - Pentobarbital
-    - Phenobarbital
-    - Secobarbital
-    - Sodium thiopental
+    - Amobarbital = 异戊巴比妥
+    - Pentobarbital = 戊巴比妥
+    - Phenobarbital = 苯巴比妥
+    - Secobarbital = 司可巴比妥
+    - Sodium thiopental = 硫喷妥钠
 + GABA~A-α~1 拮抗剂
-    - Gaboxadol
-    - Ibotenic acid
-    - Muscimol
-    - Pagoclone
-    - Quazepam
-    - Zaleplon
-    - Zolpidem (Ambien)
-    - Zopiclone
-        * Eszopiclone (Lunesta)
+    - Gaboxadol = 加波沙多
+    - Ibotenic acid = 鹅膏氨酸
+    - Muscimol = 蝇蕈碱
+    - Pagoclone = 帕戈隆
+    - Quazepam = 夸西泮
+    - Zaleplon = 扎来普隆
+    - Zolpidem = 唑吡坦 (Ambien)
+    - Zopiclone = 佐匹克隆
+        * Eszopiclone = 右佐匹克隆 (Lunesta)
 + 加巴喷丁类物质
     - F-Phenibut
-    - Gabapentin
-    - Mirogabalin
-    - Phenibut
-    - Pregabalin (Lyrica)
+    - Gabapentin = 加巴喷丁
+    - Mirogabalin = 美洛加巴林
+    - Phenibut = 菲尼布特
+    - Pregabalin = 普瑞巴林 (Lyrica)
 + 其他 GABA 能物质
-    - 1,4-Butanediol (1,4-B)
-    - Baclofen
-    - Bretazenil
-    - Carisoprodol (Soma)
-    - Chloral hydrate
-    - Emylcamate
+    - 1,4-Butanediol = 1,4-丁二醇 (1,4-B)
+    - Baclofen = 巴氯芬
+    - Bretazenil = 溴他西尼
+    - Carisoprodol = 卡立普多 (Soma)
+    - Chloral hydrate = 水合氯醛
+    - Emylcamate = 依米氨酯
     - F-Phenibut
-    - Flumazenil
+    - Flumazenil = 氟马西尼
     - GABA
     - GBL
-    - GHB (Sodium oxybate)
+    - GHB (Sodium oxybate) = 羟丁酸钠
     - GHV
     - Kava
     - Mebroqualone
-    - Meprobamate
-    - Methaqualone (Quaalude)
-    - Nitromethaqualone
-    - Phenibut
-    - Phenprobamate
-    - Potassium bromide
-    - Propofol
+    - Meprobamate = 甲丙氨酯
+    - Methaqualone = 甲喹酮 (Quaalude)
+    - Nitromethaqualone = 硝甲喹酮
+    - Phenibut = 菲尼布特
+    - Phenprobamate = 苯丙氨酯
+    - Potassium bromide = 溴化钾
+    - Propofol = 丙泊酚
     - SL-164
 + 阿片
     - 2-Methyl-AP-237
-    - Acetylfentanyl
+    - Acetylfentanyl = 乙酰芬太尼
     - AP-237
     - AP-238
     - Brorphine
-    - Buprenorphine
-    - Butyrfentabyl
-    - Carfentanyl
-    - Codeine
-    - Desomorphine (Krokodil)
-    - Dextromoramide
-    - Dextropropoxyphene
-    - Diacetylmorphine (Heroin)
-    - Dihydrocodeine
-    - Ethylmorphine
+    - Buprenorphine = 丁丙诺啡
+    - Butyrfentabyl = 布替萘芬
+    - Carfentanyl = 卡芬太尼
+    - Codeine = 可待因
+    - Desomorphine = 地素吗啡 (Krokodil)
+    - Dextromoramide = 右吗拉胺
+    - Dextropropoxyphene = 右丙氧芬
+    - Diacetylmorphine = 二乙酰吗啡 (Heroin = 海洛因)
+    - Dihydrocodeine = 双氢可待因
+    - Ethylmorphine = 乙基吗啡
     - Etodesnitazene (Etazene)
-    - Etonitazene
+    - Etonitazene = 依托尼嗪
     - Etonitazepipene
-    - Etorphine
-    - Fentanyl
+    - Etorphine = 埃托啡
+    - Fentanyl = 芬太尼
     - Fluonitazene
     - Furanylfentanyl
-    - Hydrocodone (Vicodin)
-    - Hydromorphone (Dilaudid)
-    - Isotonitazene
-    - Kratom
+    - Hydrocodone = 氢可酮 (Vicodin)
+    - Hydromorphone = 氢吗啡酮 (Dilaudid)
+    - Isotonitazene = 异丙托尼秦
+    - Kratom = 卡痛
         * 7-Hydroxymitragynine
-        * Mitragynine
-    - Lefetamine
-    - Levomethorphan
-    - Methadone
+        * Mitragynine = 帽柱木碱
+    - Lefetamine = 利非他明
+    - Levomethorphan = 左美沙芬
+    - Methadone = 美沙酮
     - Metodesnitazene
-    - Metonitazene
-    - Morphine
+    - Metonitazene = 美托尼秦
+    - Morphine = 吗啡
     - O-Desmethyltramadol (O-DSMT)
-    - Oxycodone (OxyContin)
-    - Oxymorphone
-    - Pethidine
-    - Sufentanil
-    - Tapentadol
-    - Thebaine
-    - Tianeptine
-    - Tilidine
-    - Tramadol
+    - Oxycodone = 羟考酮 (OxyContin)
+    - Oxymorphone = 羟吗啡酮
+    - Pethidine = 杜冷丁
+    - Sufentanil = 舒芬太尼
+    - Tapentadol = 他喷他多
+    - Thebaine = 蒂巴因
+    - Tianeptine = 噻奈普汀
+    - Tilidine = 替利定
+    - Tramadol = 曲马多
     - U-47700
     - U-48800
     - U-49900
 + 其他
-    - Clonidine
-    - Dexmedetomidine
-    - Diphenhydramine (Benadryl, DPH)
-    - Guanfacine
-    - Mirtazapine (Remeron)
-    - Tizanidine
+    - Clonidine = 可乐定
+    - Dexmedetomidine = 右美托咪定
+    - Diphenhydramine = 苯海拉明 (Benadryl, DPH)
+    - Guanfacine = 胍法辛
+    - Mirtazapine = 米氮平 (Remeron)
+    - Tizanidine = 替扎尼定
 
 ## 兴奋剂
 + 苯丙胺
@@ -399,44 +399,44 @@
     - 3-MMA (3-MeMA)
     - 4-FA
     - 4-FMA
-    - Amphetamine (Adderall)
-        * Dextroamphetamine (Dexedrine)
-        * Levoamphetamine
-    - Ephedrine
-    - Fenethylline (Captagon)
+    - Amphetamine = 苯丙胺 (Adderall)
+        * Dextroamphetamine = 右苯丙胺 (Dexedrine)
+        * Levoamphetamine = 左苯丙胺
+    - Ephedrine = 麻黄碱
+    - Fenethylline = 芬乙茶碱 (Captagon)
     - Lisdexamfetamine (Vyvanse)
-    - Methamphetamine (Meth)
-    - Pseudoephedrine
+    - Methamphetamine = 甲基苯丙胺 (Meth)
+    - Pseudoephedrine = 伪麻黄碱
 + 苯甲酰肼
     - 3-CPM
     - 3-FPM
     - 4-MPM
-    - Phenmetrazine
+    - Phenmetrazine = 芬美曲秦
 + 苯胺酸盐
     - 3,4-CTMP (3,4-DCMP)
     - 4F-EPH
     - 4F-MPH
     - Ethylnapthidate (HDEP-28)
     - Ethylphenidate (EPH)
-    - Isopropylphenidate (IPH / IPPH)
+    - Isopropylphenidate = 哌异丙酯 (IPH / IPPH)
     - Methylnaphthidate (HDMP-28)
-    - Methylphenidate (Ritalin)
-        * Dexmethylphenidate (Focalin)
+    - Methylphenidate = 哌甲酯 (Ritalin = 利他林)
+        * Dexmethylphenidate = 右哌甲酯 (Focalin)
 + 卡西酮
     - 2-MMC
     - 3-CMC
     - 3-MMC
     - 4-MEC
     - Butylone (βk-MBDB)
-    - Cathinone (Khat)
+    - Cathinone = 卡西酮 (Khat)
     - Ephylone (N-Ethylpentylone)
-    - Ethcathinone (ETH-CAT)
+    - Ethcathinone = 乙卡西酮 (ETH-CAT)
     - Ethylone (βk-MDEA)
     - Eutylone (N-Ethylbutylone)
     - Hexedrone
-    - Mephedrone (4-MMC)
-    - Methcathinone
-    - Methylone (βk-MDMA)
+    - Mephedrone = 4-甲基甲卡西酮 (4-MMC)
+    - Methcathinone = 甲卡西酮
+    - Methylone = 甲喹酮 (βk-MDMA)
     - Mexedrone
     - N-Ethylhexedrone (HEX-EN)
     - N-Ethylpentedrone (NEP)
@@ -460,53 +460,53 @@
     - MF-PVP
     - PV-8 (α-PHpP)
     - PV-9 (α-POP)
-    - Pyrovalerone
+    - Pyrovalerone = 吡咯戊酮
 + 哌嗪
     - 3,4-CFPP
-    - Benzylpiperazine (BZP)
+    - Benzylpiperazine = 苄基哌嗪 (BZP)
     - Kleferein
     - mCPP
     - TFMPP
 + 托品烷
-    - Cocaine
+    - Cocaine = 可卡因
         * Cocaethylene
     - RTI-111 (Dichloropane)
     - RTI-113
-    - Troparil
-+ Aminorexes
+    - Troparil = 托帕利酯
++ 氨苯恶唑啉
     - 4,4'-DMAR (Serotoni)
     - 4-Br-MAR
     - 4-Cl-MAR
     - 4-F-MAR
     - 4-Methylaminorex (4-MAR)
-    - Aminorex
+    - 阿米雷司
     - Cyclazodone
     - N-Methyl-Cyclazodone
-    - Pemoline
+    - Pemoline = 匹莫林
 + 黄嘌呤
-    - 8-Chlorotheophylline
-    - Caffeine
-    - Theacrine
-    - Theobromine
+    - 8-Chlorotheophylline = 8-氯茶碱
+    - Caffeine = 咖啡因
+    - Theacrine = 苦茶碱
+    - Theobromine = 可可碱
 + 其他
     - 1,3-DMAA
     - 1,4-DMAA
     - 2-AI
     - β-OH-PHP
-    - Bromantane
+    - Bromantane = 布罗曼坦
     - BTCP (Benocyclidine)
     - Desoxypipradrol (2-DPMP)
-    - Dimethocaine
+    - Dimethocaine = 二甲卡因
     - DMHA
     - Mephedrene (5-MMPA)
     - Methiopropamine
-    - Nicotine
+    - Nicotine = 尼古丁
     - NM-2-AI
-    - Phenethylamine
-    - Pipradol
+    - Phenethylamine = 苯乙胺
+    - Pipradol = 哌苯甲醇
     - PPAP
-    - Prolintane
-    - Propylhexedrine (Benzedrex)
+    - Prolintane = 普罗林坦
+    - Propylhexedrine = 氢化去氧麻黄碱 (Benzedrex)
     - Thiothinone
 
 ## 病原体（？？？）
@@ -518,7 +518,7 @@
     - MDEA (MDE)
     - MDMA
     - MEAI
-    - Methylone (βk-MDMA)
+    - Methylone = 甲喹酮 (βk-MDMA)
     - MMDA (5-MeO-MDA)
 + 苯并呋喃
     - 5-APB
@@ -536,43 +536,43 @@
 
 ## 促智药
 + 兴奋药
-    - Adrafinil
-    - Bisfluoromodafinil (Fl-Modafinil)
+    - Adrafinil = 阿屈非尼
+    - Bisfluoromodafinil = 二氟莫达非尼 (Fl-Modafinil)
     - Fladrafinil
-    - Fluorenol
-    - Modafinil
-        * Armodafinil
+    - Fluorenol = 氟芴
+    - Modafinil = 莫达非尼
+        * Armodafinil = 阿莫非尼
     - N-Methylbisfluoromodafinil (Modafiendz)
 + 膳食补充剂
-    - 5-HTP
-    - Choline
-        * Acetylcholine
-        * Alpha-GPC
-        * Choline bitartrate
-        * Citicoline
-        * Meclofenoxate
-    - Creatine
+    - 5-HTP = 5-羟基色氨酸
+    - Choline = 胆碱
+        * Acetylcholine = 乙酰胆碱
+        * Alpha-GPC = 甘油基磷酰胆碱
+        * Choline bitartrate = 酒石酸氢胆碱
+        * Citicoline = 胞磷胆碱
+        * Meclofenoxate = 甲氯芬酯
+    - Creatine = 肌酸
     - DMAE
     - GABA
-    - Hordenine
-    - L-Arginine
-    - L-Citrulline
-    - L-DOPA (Levodopa)
-    - L-Phenylalanine
-    - L-Tyrosine
-    - Phenethylamine
-    - L-Tryptophan
-    - S-Adenosyl methionine (SAMe)
+    - Hordenine = 大麦芽碱
+    - L-Arginine = L-精氨酸
+    - L-Citrulline = L-瓜氨酸
+    - L-DOPA (Levodopa) = 左旋多巴
+    - L-Phenylalanine = L-苯丙氨酸
+    - L-Tyrosine = L-酪氨酸
+    - Phenethylamine = 苯乙胺
+    - L-Tryptophan = L-色氨酸
+    - S-Adenosyl methionine = S-腺苷基甲硫氨酸 (SAMe)
 + 扑尔敏
-    - Aniracetam
-    - Coluracetam
-    - Fasoracetam
-    - Nefiracetam
-    - Oxiracetam
-    - Phenylpiracetam
+    - Aniracetam = 茴拉西坦
+    - Coluracetam = 考拉西坦
+    - Fasoracetam = 法索西坦
+    - Nefiracetam = 奈非西坦
+    - Oxiracetam = 奥拉西坦
+    - Phenylpiracetam = 苯基吡拉西坦
         * Phenylpiracetam hydrazide
-    - Piracetam
-    - Pramiracetam
+    - Piracetam = 吡拉西坦
+    - Pramiracetam = 普拉西坦
 + 其他
     - 9-Me-BC
     - Bemethyl
